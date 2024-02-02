@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-directives';
+  public muestras = [
+    'Muestra 1',
+    'Muestra 2',
+    'Muestra 3',
+    'Muestra 4',
+    'Muestra 5',
+  ]
 }
